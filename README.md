@@ -11,7 +11,7 @@ An AI-powered compliance auditing tool that automatically maps **PCI DSS require
 
 ## 📌 Overview
 
-Compliance teams spend **hundreds of hours** manually cross-referencing regulatory requirements against internal policy documents. This tool automates that process using **NLP-based vector similarity matching**.
+Compliance teams spend **hours** manually cross-referencing regulatory requirements against internal policy documents. This tool automates that process using **NLP-based vector similarity matching**.
 
 ### How It Works
 
