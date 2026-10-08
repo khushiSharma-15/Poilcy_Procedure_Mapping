@@ -93,6 +93,4 @@ Place your policy PDFs in the project directory, update the `files` list and `pc
 
 This tool assists with locating candidate policy language for PCI DSS requirements based on semantic similarity; it does not constitute a certified compliance assessment. Results should be reviewed by a qualified compliance professional (e.g., a QSA) before being relied upon for an actual PCI DSS audit.
 
-## Author
 
-Shubham K
